@@ -1,0 +1,10 @@
++ = ComandCalc.ADD
+DEFINE = ComandCalc.DEFINE
+/ = ComandCalc.DEL
+- = ComandCalc.MIN
+* = ComandCalc.MUL
+POP = ComandCalc.POP
+PRINT = ComandCalc.PRINT
+PUSH = ComandCalc.PUSH
+POP = ComandCalc.POP
+SQRT = ComandCalc.SQRT
